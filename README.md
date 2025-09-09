@@ -1,4 +1,4 @@
-# Vulnerability Tracker API
+# Vulnerability CRUD API
 
 A simple CRUD API built with Golang to manage vulnerability records.
 I created this project as a learning exercise to practice building RESTful APIs in Go and testing them with Postman.  
